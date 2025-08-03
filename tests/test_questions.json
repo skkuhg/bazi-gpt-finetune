@@ -1,0 +1,92 @@
+[
+  {
+    "category": "Basic Theory",
+    "question": "什麼是八字中的五行？請解釋金木水火土的特性。",
+    "expected_elements": ["五行", "金木水火土", "特性", "bilingual"],
+    "difficulty": "beginner"
+  },
+  {
+    "category": "Basic Theory", 
+    "question": "請解釋八字中的天干地支系統。",
+    "expected_elements": ["天干", "地支", "系統", "十天干", "十二地支", "bilingual"],
+    "difficulty": "beginner"
+  },
+  {
+    "category": "Chart Analysis",
+    "question": "1990-05-03 09:28 GMT+8 請分析我的八字命盤",
+    "expected_elements": ["八字", "命盤", "分析", "1990", "bilingual"],
+    "difficulty": "intermediate"
+  },
+  {
+    "category": "Chart Analysis",
+    "question": "如何從八字看一個人的性格特質？",
+    "expected_elements": ["性格", "特質", "八字", "分析方法", "bilingual"],
+    "difficulty": "intermediate"
+  },
+  {
+    "category": "Ten Gods",
+    "question": "十神中的正財和偏財有什麼區別？",
+    "expected_elements": ["十神", "正財", "偏財", "區別", "bilingual"],
+    "difficulty": "intermediate"
+  },
+  {
+    "category": "Ten Gods",
+    "question": "請解釋正官、偏官(七殺)的含義和作用。",
+    "expected_elements": ["正官", "偏官", "七殺", "含義", "作用", "bilingual"],
+    "difficulty": "intermediate"
+  },
+  {
+    "category": "Career Guidance",
+    "question": "八字中如何看適合的職業方向？",
+    "expected_elements": ["職業", "方向", "八字", "建議", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Career Guidance",
+    "question": "從八字看創業運勢需要注意哪些要素？",
+    "expected_elements": ["創業", "運勢", "要素", "注意事項", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Relationship",
+    "question": "八字合婚需要看哪些方面？",
+    "expected_elements": ["合婚", "方面", "配對", "關係", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Relationship",
+    "question": "如何從八字看感情運勢和桃花運？",
+    "expected_elements": ["感情", "運勢", "桃花運", "八字", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Health",
+    "question": "八字中如何看健康狀況和體質？",
+    "expected_elements": ["健康", "體質", "八字", "分析", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Wealth",
+    "question": "從八字如何判斷財運的好壞？",
+    "expected_elements": ["財運", "判斷", "好壞", "八字", "bilingual"],
+    "difficulty": "advanced"
+  },
+  {
+    "category": "Timing",
+    "question": "什麼是大運和流年？它們如何影響人的命運？",
+    "expected_elements": ["大運", "流年", "影響", "命運", "bilingual"],
+    "difficulty": "intermediate"
+  },
+  {
+    "category": "Traditional Culture",
+    "question": "八字命理的歷史背景和文化意義是什麼？",
+    "expected_elements": ["歷史", "文化", "意義", "背景", "bilingual"],
+    "difficulty": "beginner"
+  },
+  {
+    "category": "Practical Application",
+    "question": "在現代生活中，八字命理應該如何正確使用？",
+    "expected_elements": ["現代", "正確使用", "應用", "指導", "bilingual"],
+    "difficulty": "advanced"
+  }
+]
