@@ -1,0 +1,45 @@
+{
+  "model": "gpt-3.5-turbo-0125",
+  "n_epochs": 3,
+  "batch_size": 1,
+  "learning_rate_multiplier": 0.3,
+  "prompt_loss_weight": 0.01,
+  "validation_split": 0.1,
+  "max_tokens": 4000,
+  "temperature": 0.7,
+  "top_p": 1.0,
+  "frequency_penalty": 0.0,
+  "presence_penalty": 0.0,
+  "training_config": {
+    "description": "Fine-tuning configuration for BaZi-GPT model",
+    "purpose": "Specialized Four Pillars of Destiny consultation",
+    "language_support": ["Chinese", "English"],
+    "expected_response_format": "Bilingual with structured sections",
+    "domain_specific_features": [
+      "Traditional Chinese metaphysics terminology",
+      "Five Elements theory",
+      "Ten Gods system", 
+      "Professional consultation format",
+      "Cultural sensitivity"
+    ]
+  },
+  "quality_criteria": {
+    "bilingual_response": true,
+    "structured_format": true,
+    "professional_tone": true,
+    "cultural_accuracy": true,
+    "appropriate_disclaimers": true
+  },
+  "data_requirements": {
+    "min_examples": 50,
+    "recommended_examples": 200,
+    "max_token_per_example": 4000,
+    "required_columns": ["question", "answer"],
+    "content_validation": [
+      "Chinese language content",
+      "BaZi terminology",
+      "Professional format",
+      "Appropriate length"
+    ]
+  }
+}
